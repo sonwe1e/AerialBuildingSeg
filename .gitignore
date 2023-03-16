@@ -1,0 +1,612 @@
+__pycache__/data.cpython-39.pyc
+__pycache__/unetppp.cpython-39.pyc
+data/image/1_0.tif
+data/image/1_1.tif
+data/image/1_2.tif
+data/image/1_3.tif
+data/image/2_0.tif
+data/image/2_1.tif
+data/image/2_2.tif
+data/image/2_3.tif
+data/image/3_0.tif
+data/image/3_1.tif
+data/image/3_2.tif
+data/image/3_3.tif
+data/image/4_0.tif
+data/image/4_1.tif
+data/image/4_2.tif
+data/image/4_3.tif
+data/image/5_0.tif
+data/image/5_1.tif
+data/image/5_2.tif
+data/image/5_3.tif
+data/image/6_0.tif
+data/image/6_1.tif
+data/image/6_2.tif
+data/image/6_3.tif
+data/image/7_0.tif
+data/image/7_1.tif
+data/image/7_2.tif
+data/image/7_3.tif
+data/image/8_0.tif
+data/image/8_1.tif
+data/image/8_2.tif
+data/image/8_3.tif
+data/image/9_0.tif
+data/image/9_1.tif
+data/image/9_2.tif
+data/image/9_3.tif
+data/image/10_0.tif
+data/image/10_1.tif
+data/image/10_2.tif
+data/image/10_3.tif
+data/image/11_0.tif
+data/image/11_1.tif
+data/image/11_2.tif
+data/image/11_3.tif
+data/image/12_0.tif
+data/image/12_1.tif
+data/image/12_2.tif
+data/image/12_3.tif
+data/image/13_0.tif
+data/image/13_1.tif
+data/image/13_2.tif
+data/image/13_3.tif
+data/image/14_0.tif
+data/image/14_1.tif
+data/image/14_2.tif
+data/image/14_3.tif
+data/image/15_0.tif
+data/image/15_1.tif
+data/image/15_2.tif
+data/image/15_3.tif
+data/image/16_0.tif
+data/image/16_1.tif
+data/image/16_2.tif
+data/image/16_3.tif
+data/image/17_0.tif
+data/image/17_1.tif
+data/image/17_2.tif
+data/image/17_3.tif
+data/image/18_0.tif
+data/image/18_1.tif
+data/image/18_2.tif
+data/image/18_3.tif
+data/image/19_0.tif
+data/image/19_1.tif
+data/image/19_2.tif
+data/image/19_3.tif
+data/image/20_0.tif
+data/image/20_1.tif
+data/image/20_2.tif
+data/image/20_3.tif
+data/image/21_0.tif
+data/image/21_1.tif
+data/image/21_2.tif
+data/image/21_3.tif
+data/image/22_0.tif
+data/image/22_1.tif
+data/image/22_2.tif
+data/image/22_3.tif
+data/image/23_0.tif
+data/image/23_1.tif
+data/image/23_2.tif
+data/image/23_3.tif
+data/image/24_0.tif
+data/image/24_1.tif
+data/image/24_2.tif
+data/image/24_3.tif
+data/image/25_0.tif
+data/image/25_1.tif
+data/image/25_2.tif
+data/image/25_3.tif
+data/image/26_0.tif
+data/image/26_1.tif
+data/image/26_2.tif
+data/image/26_3.tif
+data/image/27_0.tif
+data/image/27_1.tif
+data/image/27_2.tif
+data/image/27_3.tif
+data/image/28_0.tif
+data/image/28_1.tif
+data/image/28_2.tif
+data/image/28_3.tif
+data/image/29_0.tif
+data/image/29_1.tif
+data/image/29_2.tif
+data/image/29_3.tif
+data/image/30_0.tif
+data/image/30_1.tif
+data/image/30_2.tif
+data/image/30_3.tif
+data/image/31_0.tif
+data/image/31_1.tif
+data/image/31_2.tif
+data/image/31_3.tif
+data/image/32_0.tif
+data/image/32_1.tif
+data/image/32_2.tif
+data/image/32_3.tif
+data/image/33_0.tif
+data/image/33_1.tif
+data/image/33_2.tif
+data/image/33_3.tif
+data/image/34_0.tif
+data/image/34_1.tif
+data/image/34_2.tif
+data/image/34_3.tif
+data/image/35_0.tif
+data/image/35_1.tif
+data/image/35_2.tif
+data/image/35_3.tif
+data/image/36_0.tif
+data/image/36_1.tif
+data/image/36_2.tif
+data/image/36_3.tif
+data/image/37_0.tif
+data/image/37_1.tif
+data/image/37_2.tif
+data/image/37_3.tif
+data/image/38_0.tif
+data/image/38_1.tif
+data/image/38_2.tif
+data/image/38_3.tif
+data/image/39_0.tif
+data/image/39_1.tif
+data/image/39_2.tif
+data/image/39_3.tif
+data/image/40_0.tif
+data/image/40_1.tif
+data/image/40_2.tif
+data/image/40_3.tif
+data/image/41_0.tif
+data/image/41_1.tif
+data/image/41_2.tif
+data/image/41_3.tif
+data/image/42_0.tif
+data/image/42_1.tif
+data/image/42_2.tif
+data/image/42_3.tif
+data/image/43_0.tif
+data/image/43_1.tif
+data/image/43_2.tif
+data/image/43_3.tif
+data/image/44_0.tif
+data/image/44_1.tif
+data/image/44_2.tif
+data/image/44_3.tif
+data/image/45_0.tif
+data/image/45_1.tif
+data/image/45_2.tif
+data/image/45_3.tif
+data/image/46_0.tif
+data/image/46_1.tif
+data/image/46_2.tif
+data/image/46_3.tif
+data/image/47_0.tif
+data/image/47_1.tif
+data/image/47_2.tif
+data/image/47_3.tif
+data/image/48_0.tif
+data/image/48_1.tif
+data/image/48_2.tif
+data/image/48_3.tif
+data/image/49_0.tif
+data/image/49_1.tif
+data/image/49_2.tif
+data/image/49_3.tif
+data/image/50_0.tif
+data/image/50_1.tif
+data/image/50_2.tif
+data/image/50_3.tif
+data/image/51_0.tif
+data/image/51_1.tif
+data/image/51_2.tif
+data/image/51_3.tif
+data/label/1_0.tif
+data/label/1_1.tif
+data/label/1_2.tif
+data/label/1_3.tif
+data/label/2_0.tif
+data/label/2_1.tif
+data/label/2_2.tif
+data/label/2_3.tif
+data/label/3_0.tif
+data/label/3_1.tif
+data/label/3_2.tif
+data/label/3_3.tif
+data/label/4_0.tif
+data/label/4_1.tif
+data/label/4_2.tif
+data/label/4_3.tif
+data/label/5_0.tif
+data/label/5_1.tif
+data/label/5_2.tif
+data/label/5_3.tif
+data/label/6_0.tif
+data/label/6_1.tif
+data/label/6_2.tif
+data/label/6_3.tif
+data/label/7_0.tif
+data/label/7_1.tif
+data/label/7_2.tif
+data/label/7_3.tif
+data/label/8_0.tif
+data/label/8_1.tif
+data/label/8_2.tif
+data/label/8_3.tif
+data/label/9_0.tif
+data/label/9_1.tif
+data/label/9_2.tif
+data/label/9_3.tif
+data/label/10_0.tif
+data/label/10_1.tif
+data/label/10_2.tif
+data/label/10_3.tif
+data/label/11_0.tif
+data/label/11_1.tif
+data/label/11_2.tif
+data/label/11_3.tif
+data/label/12_0.tif
+data/label/12_1.tif
+data/label/12_2.tif
+data/label/12_3.tif
+data/label/13_0.tif
+data/label/13_1.tif
+data/label/13_2.tif
+data/label/13_3.tif
+data/label/14_0.tif
+data/label/14_1.tif
+data/label/14_2.tif
+data/label/14_3.tif
+data/label/15_0.tif
+data/label/15_1.tif
+data/label/15_2.tif
+data/label/15_3.tif
+data/label/16_0.tif
+data/label/16_1.tif
+data/label/16_2.tif
+data/label/16_3.tif
+data/label/17_0.tif
+data/label/17_1.tif
+data/label/17_2.tif
+data/label/17_3.tif
+data/label/18_0.tif
+data/label/18_1.tif
+data/label/18_2.tif
+data/label/18_3.tif
+data/label/19_0.tif
+data/label/19_1.tif
+data/label/19_2.tif
+data/label/19_3.tif
+data/label/20_0.tif
+data/label/20_1.tif
+data/label/20_2.tif
+data/label/20_3.tif
+data/label/21_0.tif
+data/label/21_1.tif
+data/label/21_2.tif
+data/label/21_3.tif
+data/label/22_0.tif
+data/label/22_1.tif
+data/label/22_2.tif
+data/label/22_3.tif
+data/label/23_0.tif
+data/label/23_1.tif
+data/label/23_2.tif
+data/label/23_3.tif
+data/label/24_0.tif
+data/label/24_1.tif
+data/label/24_2.tif
+data/label/24_3.tif
+data/label/25_0.tif
+data/label/25_1.tif
+data/label/25_2.tif
+data/label/25_3.tif
+data/label/26_0.tif
+data/label/26_1.tif
+data/label/26_2.tif
+data/label/26_3.tif
+data/label/27_0.tif
+data/label/27_1.tif
+data/label/27_2.tif
+data/label/27_3.tif
+data/label/28_0.tif
+data/label/28_1.tif
+data/label/28_2.tif
+data/label/28_3.tif
+data/label/29_0.tif
+data/label/29_1.tif
+data/label/29_2.tif
+data/label/29_3.tif
+data/label/30_0.tif
+data/label/30_1.tif
+data/label/30_2.tif
+data/label/30_3.tif
+data/label/31_0.tif
+data/label/31_1.tif
+data/label/31_2.tif
+data/label/31_3.tif
+data/label/32_0.tif
+data/label/32_1.tif
+data/label/32_2.tif
+data/label/32_3.tif
+data/label/33_0.tif
+data/label/33_1.tif
+data/label/33_2.tif
+data/label/33_3.tif
+data/label/34_0.tif
+data/label/34_1.tif
+data/label/34_2.tif
+data/label/34_3.tif
+data/label/35_0.tif
+data/label/35_1.tif
+data/label/35_2.tif
+data/label/35_3.tif
+data/label/36_0.tif
+data/label/36_1.tif
+data/label/36_2.tif
+data/label/36_3.tif
+data/label/37_0.tif
+data/label/37_1.tif
+data/label/37_2.tif
+data/label/37_3.tif
+data/label/38_0.tif
+data/label/38_1.tif
+data/label/38_2.tif
+data/label/38_3.tif
+data/label/39_0.tif
+data/label/39_1.tif
+data/label/39_2.tif
+data/label/39_3.tif
+data/label/40_0.tif
+data/label/40_1.tif
+data/label/40_2.tif
+data/label/40_3.tif
+data/label/41_0.tif
+data/label/41_1.tif
+data/label/41_2.tif
+data/label/41_3.tif
+data/label/42_0.tif
+data/label/42_1.tif
+data/label/42_2.tif
+data/label/42_3.tif
+data/label/43_0.tif
+data/label/43_1.tif
+data/label/43_2.tif
+data/label/43_3.tif
+data/label/44_0.tif
+data/label/44_1.tif
+data/label/44_2.tif
+data/label/44_3.tif
+data/label/45_0.tif
+data/label/45_1.tif
+data/label/45_2.tif
+data/label/45_3.tif
+data/label/46_0.tif
+data/label/46_1.tif
+data/label/46_2.tif
+data/label/46_3.tif
+data/label/47_0.tif
+data/label/47_1.tif
+data/label/47_2.tif
+data/label/47_3.tif
+data/label/48_0.tif
+data/label/48_1.tif
+data/label/48_2.tif
+data/label/48_3.tif
+data/label/49_0.tif
+data/label/49_1.tif
+data/label/49_2.tif
+data/label/49_3.tif
+data/label/50_0.tif
+data/label/50_1.tif
+data/label/50_2.tif
+data/label/50_3.tif
+data/label/51_0.tif
+data/label/51_1.tif
+data/label/51_2.tif
+data/label/51_3.tif
+Layer_Segmentations/0000.png
+Layer_Segmentations/0001.png
+Layer_Segmentations/0002.png
+Layer_Segmentations/0003.png
+Layer_Segmentations/0004.png
+Layer_Segmentations/0005.png
+Layer_Segmentations/0006.png
+Layer_Segmentations/0007.png
+Layer_Segmentations/0008.png
+Layer_Segmentations/0009.png
+Layer_Segmentations/0010.png
+Layer_Segmentations/0011.png
+Layer_Segmentations/0012.png
+Layer_Segmentations/0013.png
+Layer_Segmentations/0014.png
+Layer_Segmentations/0015.png
+Layer_Segmentations/0016.png
+Layer_Segmentations/0017.png
+Layer_Segmentations/0018.png
+Layer_Segmentations/0019.png
+Layer_Segmentations/0020.png
+Layer_Segmentations/0021.png
+Layer_Segmentations/0022.png
+Layer_Segmentations/0023.png
+Layer_Segmentations/0024.png
+Layer_Segmentations/0025.png
+Layer_Segmentations/0026.png
+Layer_Segmentations/0027.png
+Layer_Segmentations/0028.png
+Layer_Segmentations/0029.png
+Layer_Segmentations/0030.png
+Layer_Segmentations/0031.png
+Layer_Segmentations/0032.png
+Layer_Segmentations/0033.png
+Layer_Segmentations/0034.png
+Layer_Segmentations/0035.png
+Layer_Segmentations/0036.png
+Layer_Segmentations/0037.png
+Layer_Segmentations/0038.png
+Layer_Segmentations/0039.png
+Layer_Segmentations/0040.png
+test_pred/Academic Surge Building.jpg
+test_pred/Activities and Recreation Center.jpg
+test_pred/Advanced Transportation Infrastructure1.jpg
+test_pred/Aggie Surplus.jpg
+test_pred/Ann E. Pitzer Center.jpg
+test_pred/ARC Pavilion.jpg
+test_pred/Asmundson Hall.jpg
+test_pred/Bainer Hall.jpg
+test_pred/Briggs Hall.jpg
+test_pred/California Hall.jpg
+test_pred/Center for Companion Animal Health (CCAH).jpg
+test_pred/Center for Watershed Sciences.jpg
+test_pred/Chemistry Annex.jpg
+test_pred/Chemistry building.jpg
+test_pred/Claire Giannini Hoffman Equine Athletic Performance Laboratory.jpg
+test_pred/College of Agricultural and Environmental Sciences.jpg
+test_pred/Contained Research Facility3.jpg
+test_pred/Cruess Hall.jpg
+test_pred/Dutton Hall.jpg
+test_pred/Earth and Physical Sciences.jpg
+test_pred/FPS Trinchero Family Estates Building.jpg
+test_pred/Freeborn Hall.jpg
+test_pred/Genome & Biomedical Sciences.jpg
+test_pred/Ghausi Hall.jpg
+test_pred/Gourley Clinical Teaching Center.jpg
+test_pred/Hart Hall.jpg
+test_pred/Heitman Staff Learning Center.jpg
+test_pred/Hoagland Hall.jpg
+test_pred/Hunt Hall.jpg
+test_pred/Hutchison Hall.jpg
+test_pred/Kemper Hall.jpg
+test_pred/King Hall.jpg
+test_pred/Mathematical Sciences Building.jpg
+test_pred/Melvin M. and Kathleen C. Green Hall .jpg
+test_pred/Memorial Union.jpg
+test_pred/Meyer Hall.jpg
+test_pred/Olson Hall.jpg
+test_pred/Pavilion Structure.jpg
+test_pred/Peter J. Shields Library.jpg
+test_pred/Physics Building.jpg
+test_pred/Plant and Environmental Sciences Building.jpg
+test_pred/RMI Teaching and Research Winery.jpg
+test_pred/Robert Mondavi Institute.jpg
+test_pred/Sciences Laboratory Bldg.jpg
+test_pred/Segundo Dining Commons.jpg
+test_pred/Segundo Services Center.jpg
+test_pred/Social Sciences & Humanities.jpg
+test_pred/Sproul Hall.jpg
+test_pred/Storer Hall.jpg
+test_pred/Student Community Center.jpg
+test_pred/Student Health & Wellness Center.jpg
+test_pred/Tercero Dining Commons.jpg
+test_pred/Transportation and Parking Services.jpg
+test_pred/Tupper Hall.jpg
+test_pred/UC Davis Communications Resources.jpg
+test_pred/UC Davis Conference Center.jpg
+test_pred/UC Davis Facilities Management.jpg
+test_pred/UC Davis Veterinary Hospital.jpg
+test_pred/Valley Hall.jpg
+test_pred/Veterinary Medicine 3A.jpg
+test_pred/Veterinary Medicine 3B.jpg
+test_pred/Voorhies Hall.jpg
+test_pred/Warren and Leta Giedt Hall.jpg
+test_pred/Wellman Hall.jpg
+test_pred/Wickson Hall.jpg
+test_pred/Wright Hall.jpg
+test_pred/Young Hall.jpg
+result/test/1924-0.166.ckpt
+wandb/debug-cli.gdut403.log
+wandb/debug-internal.log
+wandb/debug.log
+wandb/latest-run
+wandb/run-20221126_094343-hpmia92r/run-hpmia92r.wandb
+wandb/run-20221126_094343-hpmia92r/files/conda-environment.yaml
+wandb/run-20221126_094343-hpmia92r/files/config.yaml
+wandb/run-20221126_094343-hpmia92r/files/requirements.txt
+wandb/run-20221126_094343-hpmia92r/files/wandb-metadata.json
+wandb/run-20221126_094343-hpmia92r/files/wandb-summary.json
+wandb/run-20221126_094343-hpmia92r/logs/debug-internal.log
+wandb/run-20221126_094343-hpmia92r/logs/debug.log
+wandb/run-20221126_094417-l4uapusy/run-l4uapusy.wandb
+wandb/run-20221126_094417-l4uapusy/files/conda-environment.yaml
+wandb/run-20221126_094417-l4uapusy/files/config.yaml
+wandb/run-20221126_094417-l4uapusy/files/output.log
+wandb/run-20221126_094417-l4uapusy/files/requirements.txt
+wandb/run-20221126_094417-l4uapusy/files/wandb-metadata.json
+wandb/run-20221126_094417-l4uapusy/files/wandb-summary.json
+wandb/run-20221126_094417-l4uapusy/logs/debug-internal.log
+wandb/run-20221126_094417-l4uapusy/logs/debug.log
+wandb/run-20221126_094625-3sot5gh4/run-3sot5gh4.wandb
+wandb/run-20221126_094625-3sot5gh4/files/conda-environment.yaml
+wandb/run-20221126_094625-3sot5gh4/files/config.yaml
+wandb/run-20221126_094625-3sot5gh4/files/output.log
+wandb/run-20221126_094625-3sot5gh4/files/requirements.txt
+wandb/run-20221126_094625-3sot5gh4/files/wandb-metadata.json
+wandb/run-20221126_094625-3sot5gh4/files/wandb-summary.json
+wandb/run-20221126_094625-3sot5gh4/logs/debug-internal.log
+wandb/run-20221126_094625-3sot5gh4/logs/debug.log
+wandb/run-20221126_094810-3qo6uvws/run-3qo6uvws.wandb
+wandb/run-20221126_094810-3qo6uvws/files/conda-environment.yaml
+wandb/run-20221126_094810-3qo6uvws/files/config.yaml
+wandb/run-20221126_094810-3qo6uvws/files/output.log
+wandb/run-20221126_094810-3qo6uvws/files/requirements.txt
+wandb/run-20221126_094810-3qo6uvws/files/wandb-metadata.json
+wandb/run-20221126_094810-3qo6uvws/files/wandb-summary.json
+wandb/run-20221126_094810-3qo6uvws/logs/debug-internal.log
+wandb/run-20221126_094810-3qo6uvws/logs/debug.log
+wandb/run-20221126_130945-sqopvkzp/run-sqopvkzp.wandb
+wandb/run-20221126_130945-sqopvkzp/files/conda-environment.yaml
+wandb/run-20221126_130945-sqopvkzp/files/config.yaml
+wandb/run-20221126_130945-sqopvkzp/files/output.log
+wandb/run-20221126_130945-sqopvkzp/files/requirements.txt
+wandb/run-20221126_130945-sqopvkzp/files/wandb-metadata.json
+wandb/run-20221126_130945-sqopvkzp/files/wandb-summary.json
+wandb/run-20221126_130945-sqopvkzp/logs/debug-internal.log
+wandb/run-20221126_130945-sqopvkzp/logs/debug.log
+wandb/run-20221126_131058-nmum5a3j/run-nmum5a3j.wandb
+wandb/run-20221126_131058-nmum5a3j/files/conda-environment.yaml
+wandb/run-20221126_131058-nmum5a3j/files/config.yaml
+wandb/run-20221126_131058-nmum5a3j/files/output.log
+wandb/run-20221126_131058-nmum5a3j/files/requirements.txt
+wandb/run-20221126_131058-nmum5a3j/files/wandb-metadata.json
+wandb/run-20221126_131058-nmum5a3j/files/wandb-summary.json
+wandb/run-20221126_131058-nmum5a3j/logs/debug-internal.log
+wandb/run-20221126_131058-nmum5a3j/logs/debug.log
+wandb/run-20221126_150059-13wbiyvd/run-13wbiyvd.wandb
+wandb/run-20221126_150059-13wbiyvd/files/conda-environment.yaml
+wandb/run-20221126_150059-13wbiyvd/files/config.yaml
+wandb/run-20221126_150059-13wbiyvd/files/output.log
+wandb/run-20221126_150059-13wbiyvd/files/requirements.txt
+wandb/run-20221126_150059-13wbiyvd/files/wandb-metadata.json
+wandb/run-20221126_150059-13wbiyvd/files/wandb-summary.json
+wandb/run-20221126_150059-13wbiyvd/logs/debug-internal.log
+wandb/run-20221126_150059-13wbiyvd/logs/debug.log
+wandb/run-20221126_151429-16seqdpn/run-16seqdpn.wandb
+wandb/run-20221126_151429-16seqdpn/files/conda-environment.yaml
+wandb/run-20221126_151429-16seqdpn/files/config.yaml
+wandb/run-20221126_151429-16seqdpn/files/output.log
+wandb/run-20221126_151429-16seqdpn/files/requirements.txt
+wandb/run-20221126_151429-16seqdpn/files/wandb-metadata.json
+wandb/run-20221126_151429-16seqdpn/files/wandb-summary.json
+wandb/run-20221126_151429-16seqdpn/logs/debug-internal.log
+wandb/run-20221126_151429-16seqdpn/logs/debug.log
+wandb/run-20221126_160126-2wjfsfgc/run-2wjfsfgc.wandb
+wandb/run-20221126_160126-2wjfsfgc/files/conda-environment.yaml
+wandb/run-20221126_160126-2wjfsfgc/files/config.yaml
+wandb/run-20221126_160126-2wjfsfgc/files/output.log
+wandb/run-20221126_160126-2wjfsfgc/files/requirements.txt
+wandb/run-20221126_160126-2wjfsfgc/files/wandb-metadata.json
+wandb/run-20221126_160126-2wjfsfgc/files/wandb-summary.json
+wandb/run-20221126_160126-2wjfsfgc/logs/debug-internal.log
+wandb/run-20221126_160126-2wjfsfgc/logs/debug.log
+wandb/run-20221126_183750-25jg46h5/run-25jg46h5.wandb
+wandb/run-20221126_183750-25jg46h5/files/conda-environment.yaml
+wandb/run-20221126_183750-25jg46h5/files/config.yaml
+wandb/run-20221126_183750-25jg46h5/files/output.log
+wandb/run-20221126_183750-25jg46h5/files/requirements.txt
+wandb/run-20221126_183750-25jg46h5/files/wandb-metadata.json
+wandb/run-20221126_183750-25jg46h5/files/wandb-summary.json
+wandb/run-20221126_183750-25jg46h5/logs/debug-internal.log
+wandb/run-20221126_183750-25jg46h5/logs/debug.log
